@@ -1,0 +1,1129 @@
+[
+  {
+    "name": "DIRHAM DE LOS EMIRATOS  ARABES UNIDOS",
+    "value": "AED",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AFGANI AFGANO",
+    "value": "AFN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEK ALBANO",
+    "value": "ALL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DRAM ARMENIO",
+    "value": "AMD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUILDER DE LAS ANTILLAS HOLANDESAS",
+    "value": "ANG",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KWANZA ANGOLEÑO",
+    "value": "AOA",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO ARGENTINO",
+    "value": "ARS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR AUSTRALIANO",
+    "value": "AUD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUILDER DE ARUBA",
+    "value": "AWG",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MANAT AZERBAIYANO",
+    "value": "AZN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MARCO CONVERTIBLE DE BOSNIA-HERZEGOVINA",
+    "value": "BAM",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE BARBADOS",
+    "value": "BBD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TAKA DE BANGLADESH",
+    "value": "BDT",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEV BULGARO",
+    "value": "BGN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR BAHREINI",
+    "value": "BHD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO BURUNDES",
+    "value": "BIF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE BERMUDA",
+    "value": "BMD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE BRUNEI",
+    "value": "BND",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOLIVIANO",
+    "value": "BOB",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REAL BRASILEÑO",
+    "value": "BRL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR BAHAMEÑO",
+    "value": "BSD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NGULTRUM DE BUT AN",
+    "value": "BTN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PULA DE BOTSWANA",
+    "value": "BWP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUBLO BIELORRUSO",
+    "value": "BYR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE BELICE",
+    "value": "BZD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR CANADIENSE",
+    "value": "CAD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO CONGOLEÑO",
+    "value": "CDF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "WIR EURO",
+    "value": "CHE",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO SUIZO",
+    "value": "CHF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "WIR FRANC",
+    "value": "CHW",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO CHILENO",
+    "value": "CLP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "YUAN RENMINBI",
+    "value": "CNY",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO COLOMBIANO",
+    "value": "COP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COLON COSTARRICENSE",
+    "value": "CRC",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO CUBANO CONVERTIBLE",
+    "value": "CUC",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO CUBANO",
+    "value": "CUP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCUDO CABOVERDIANO",
+    "value": "CVE",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KORUNA CHECO",
+    "value": "CZK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO YIBUTIANO",
+    "value": "DJF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORONA DANESA",
+    "value": "DKK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO DOMINICANO",
+    "value": "DOP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR ARGELINO",
+    "value": "DZD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORONA DE ESTONIA",
+    "value": "EEK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA EGIPCIA",
+    "value": "EGP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NAKFA ERITREO",
+    "value": "ERN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BIRR ETIOPE",
+    "value": "ETB",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EURO",
+    "value": "EUR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR FIJIANO",
+    "value": "FJD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA MALVINENSE",
+    "value": "FKP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA ESTERLINA  DE GRAN BRETAÑA",
+    "value": "GBP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LARI GEORGIANO",
+    "value": "GEL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CEDI GHANES",
+    "value": "GHS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA DE GIBRALTAR",
+    "value": "GIP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DALASI GAMBIANO",
+    "value": "GMD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO GUINEANO",
+    "value": "GNF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUETZAL GUATEMALTECO",
+    "value": "GTQ",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR GUYANES",
+    "value": "GYD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE HONG KONG",
+    "value": "HKD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEMPIRA HONDUREÑA",
+    "value": "HNL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KUNA CROATA",
+    "value": "HRK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GOURDE HAITIANO",
+    "value": "HTG",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FORINT HUNGARO",
+    "value": "HUF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIAH INDONESIA",
+    "value": "IDR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NUEVO SHEQUEL ISRAELI",
+    "value": "ILS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA INDIA",
+    "value": "INR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR IRAQI",
+    "value": "IQD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIAL IRANI",
+    "value": "IRR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KRONA ISLANDESA",
+    "value": "ISK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR JAMAICANO",
+    "value": "JMD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR JORDANO",
+    "value": "JOD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "YEN JAPONES",
+    "value": "JPY",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHELIN KENIATA",
+    "value": "KES",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOM KIRGUIS  DE KIRGUIST AN",
+    "value": "KGS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIEL CAMBOYANO",
+    "value": "KHR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO COMORIANO  DE COMORAS",
+    "value": "KMF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "WON NORCOREANO",
+    "value": "KPW",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "WON SURCOREANO",
+    "value": "KRW",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR KUWAITI",
+    "value": "KWD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR CAIMANO  DE ISLAS CAIM AN",
+    "value": "KYD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TENGE KAZAJO  DE KAZAJST AN",
+    "value": "KZT",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KIP LAO",
+    "value": "LAK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA LIBANESA",
+    "value": "LBP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA DE SRI LANKA",
+    "value": "LKR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR LIBERIANO",
+    "value": "LRD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LOTI LESOTHENSE  DE LESOTHO",
+    "value": "LSL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LITAS LITUANO",
+    "value": "LTL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LAT LETON",
+    "value": "LVL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR LIBIO",
+    "value": "LYD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DIRHAM MARROQUI",
+    "value": "MAD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEU MOLDAVO",
+    "value": "MDL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARIARY MALGACHE  DE MADAGASCAR",
+    "value": "MGA",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DENAR MACEDONIO",
+    "value": "MKD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KYAT MYANMARO",
+    "value": "MMK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TUGHRIK MONGOL",
+    "value": "MNT",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PATACA DE MACAO",
+    "value": "MOP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OUGUIYA MAURITANA",
+    "value": "MRO",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA MAURICIA",
+    "value": "MUR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUFIYAA MALDIVA",
+    "value": "MVR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KWACHA MALAWIANO",
+    "value": "MWK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO MEXICANO",
+    "value": "MXN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RINGGIT MALAYO",
+    "value": "MYR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "METICAL MOZAMBIQUEÑO",
+    "value": "MZN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR NAMIBIO",
+    "value": "NAD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NAIRA NIGERIANA",
+    "value": "NGN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORDOBA NICARAGÜENSE",
+    "value": "NIO",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORONA NORUEGA",
+    "value": "NOK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA NEPALESA",
+    "value": "NPR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR NEOZELANDES",
+    "value": "NZD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIAL OMANI  DE OM AN",
+    "value": "OMR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BALBOA PANAMEÑA",
+    "value": "PAB",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOL PERUANO",
+    "value": "PEN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KINA DE PAPUA NUEVA GUINEA",
+    "value": "PGK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO FILIPINO",
+    "value": "PHP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA PAKISTANI",
+    "value": "PKR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZLOTY POLACO",
+    "value": "PLN",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUARANI PARAGUAYO",
+    "value": "PYG",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIAL QATARI",
+    "value": "QAR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEU RUMANO",
+    "value": "RON",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR SERBIO",
+    "value": "RSD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUBLO RUSO",
+    "value": "RUB",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO RUANDES",
+    "value": "RWF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIYAL SAUDI",
+    "value": "SAR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE LAS ISLAS SALOMON",
+    "value": "SBD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUPIA DE SEYCHELLES",
+    "value": "SCR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA SUDANESA",
+    "value": "SDG",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORONA SUECA",
+    "value": "SEK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE SINGAPUR",
+    "value": "SGD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA DE SANTA HELENA",
+    "value": "SHP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LEONE DE SIERRA LEONA",
+    "value": "SLL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHELIN SOMALI",
+    "value": "SOS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOBRA DE SANTO TOME Y PRINCIPE",
+    "value": "STD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EL SALVADOR COLON",
+    "value": "SVC",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRA SIRIA",
+    "value": "SYP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LILANGENI SUAZI  DE SUAZILANDIA",
+    "value": "SZL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAHT TAILANDES",
+    "value": "THB",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUBLO TAYIK  DE TAYIKIST AN",
+    "value": "TJS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NUEVO MANAT TURCOMANO",
+    "value": "TMT",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DINAR TUNECINO",
+    "value": "TND",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PA ANGA TONGANO",
+    "value": "TOP",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NUEVA LIRA TURCA",
+    "value": "TRY",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DE TRINIDAD Y TOBAGO",
+    "value": "TTD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR TAIWANES",
+    "value": "TWD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHELIN TANZANO",
+    "value": "TZS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HRYVNIA UCRANIANA",
+    "value": "UAH",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHELIN UGANDES",
+    "value": "UGX",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR ESTADOUNIDENSE",
+    "value": "USD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PESO URUGUAYO",
+    "value": "UYU",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOM UZBECO",
+    "value": "UZS",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOLIVAR FUERTE",
+    "value": "VEF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DONG VIETNAMITA",
+    "value": "VND",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VATU VANUATENSE",
+    "value": "VUV",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALA SAMOANA",
+    "value": "WST",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO DE AFRICA CENTRAL",
+    "value": "XAF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR DEL CARIBE ORIENTAL",
+    "value": "XCD",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO DE AFRICA OCCIDENTAL",
+    "value": "XOF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCO DE NUEVA ZELANDA",
+    "value": "XPF",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RIAL YEMENI  DE YEMEN",
+    "value": "YER",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RAND SUDAFRICANO",
+    "value": "ZAR",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KWACHA ZAMBIANO",
+    "value": "ZMK",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOLAR ZIMBABWES",
+    "value": "ZWL",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACTO O CONDUCTA / TENTATIVA DE OPERACIÓN",
+    "value": "NON",
+    "taxonomy": "currency",
+    "code1": null,
+    "code2": null
+  }
+]

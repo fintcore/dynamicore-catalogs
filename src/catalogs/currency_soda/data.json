@@ -1,0 +1,23 @@
+[
+  {
+    "name": "EUR",
+    "value": 1,
+    "taxonomy": "currency_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MXN",
+    "value": 2,
+    "taxonomy": "currency_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "USD",
+    "value": 3,
+    "taxonomy": "currency_soda",
+    "code1": null,
+    "code2": null
+  }
+]
