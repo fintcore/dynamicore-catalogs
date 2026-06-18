@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Efectivo",
+    "value": "01",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cheque nominativo",
+    "value": "02",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Transferencia electrónica de fondos",
+    "value": "03",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjeta de crédito",
+    "value": "04",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Monedero electrónico",
+    "value": "05",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dinero electrónico",
+    "value": "06",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vales de despensa",
+    "value": "08",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dación en pago",
+    "value": "12",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago por subrogación",
+    "value": "13",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago por consignación",
+    "value": "14",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Condonación",
+    "value": "15",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Compensación",
+    "value": "17",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Novación",
+    "value": "23",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Confusión",
+    "value": "24",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Remisión de deuda",
+    "value": "25",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Prescripción o caducidad",
+    "value": "26",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "A satisfacción del acreedor",
+    "value": "27",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjeta de débito",
+    "value": "28",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjeta de servicios",
+    "value": "29",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Aplicación de anticipos",
+    "value": "30",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Intermediarios",
+    "value": "31",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Por definir",
+    "value": "99",
+    "taxonomy": "paymentForms",
+    "code1": null,
+    "code2": null
+  }
+]

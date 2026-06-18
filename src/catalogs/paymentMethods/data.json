@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pago en parcialidades ó diferido",
+    "value": "PPD",
+    "taxonomy": "paymentMethods",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago en una sola exhibición",
+    "value": "PUE",
+    "taxonomy": "paymentMethods",
+    "code1": null,
+    "code2": null
+  }
+]

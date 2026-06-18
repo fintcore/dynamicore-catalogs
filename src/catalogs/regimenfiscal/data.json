@@ -1,0 +1,163 @@
+[
+  {
+    "name": "General de Ley Personas Morales",
+    "value": 601,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Personas Morales con Fines no Lucrativos",
+    "value": 603,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
+    "value": 605,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arrendamiento",
+    "value": 606,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Régimen de Enajenación o Adquisición de Bienes",
+    "value": 607,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Demás ingresos",
+    "value": 608,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Residentes en el Extranjero sin Establecimiento Permanente en México",
+    "value": 610,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ingresos por Dividendos (socios y accionistas)",
+    "value": 611,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Personas Físicas con Actividades Empresariales y Profesionales",
+    "value": 612,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ingresos por intereses",
+    "value": 614,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Régimen de los ingresos por obtención de premios",
+    "value": 615,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sin obligaciones fiscales",
+    "value": 616,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
+    "value": 620,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Incorporación Fiscal",
+    "value": 621,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
+    "value": 622,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Opcional para Grupos de Sociedades",
+    "value": 623,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Coordinados",
+    "value": 624,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
+    "value": 625,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Régimen Simplificado de Confianza",
+    "value": 626,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Enajenación de acciones en bolsa de valores",
+    "value": 630,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hidrocarburos",
+    "value": 628,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Consolidación",
+    "value": 609,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "De los regímenes fiscales preferentes y de las empresas multinacionales",
+    "value": 629,
+    "taxonomy": "regimenfiscal",
+    "code1": null,
+    "code2": null
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Nómina",
+    "value": "CN01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pagos",
+    "value": "CP01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Honorarios médicos, dentales y gastos hospitalarios.",
+    "value": "D01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gastos médicos por incapacidad o discapacidad",
+    "value": "D02",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gastos funerales.",
+    "value": "D03",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Donativos.",
+    "value": "D04",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+    "value": "D05",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Aportaciones voluntarias al SAR.",
+    "value": "D06",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Primas por seguros de gastos médicos.",
+    "value": "D07",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gastos de transportación escolar obligatoria.",
+    "value": "D08",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+    "value": "D09",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pagos por servicios educativos (colegiaturas)",
+    "value": "D10",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Adquisición de mercancias",
+    "value": "G01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Devoluciones, descuentos o bonificaciones",
+    "value": "G02",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gastos en general",
+    "value": "G03",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Construcciones",
+    "value": "I01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mobilario y equipo de oficina por inversiones",
+    "value": "I02",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Equipo de transporte",
+    "value": "I03",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Equipo de computo y accesorios",
+    "value": "I04",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dados, troqueles, moldes, matrices y herramental",
+    "value": "I05",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comunicaciones telefónicas",
+    "value": "I06",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comunicaciones satelitales",
+    "value": "I07",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Otra maquinaria y equipo",
+    "value": "I08",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Por Definir",
+    "value": "P01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sin efectos fiscales",
+    "value": "S01",
+    "taxonomy": "cfdiuses",
+    "code1": null,
+    "code2": null
+  }
+]

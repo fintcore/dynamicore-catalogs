@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Asociación Civil ( A.C)",
+    "value": "asociaci_n_civil___a_c_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima (S.A.)",
+    "value": "sociedad_an_nima__s_a__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Bursatil (S.A.B.)",
+    "value": "sociedad_an_nima_bursatil__s_a_b__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Bursatil de Capital Variable (S.A.B. de C. V.)",
+    "value": "sociedad_an_nima_bursatil_de_capital_variable__s_a_b__de_c__v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable (S. A. de C. V.)",
+    "value": "sociedad_an_nima_de_capital_variable__s__a__de_c__v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Limitado",
+    "value": "sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_limitado",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Múltiple Entidad  No Regulada (S.A de C.V. SOFOM ENR)",
+    "value": "sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_m_ltiple_entidad__no_regulada__s_a_de_c_v__sofom_enr_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Múltiple Entidad  Regulada (S.A de C.V. SOFOM ER)",
+    "value": "sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_m_ltiple_entidad__regulada__s_a_de_c_v__sofom_er_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable, Casa de Bolsa (S.A de C.V. Casa de Bolsa)",
+    "value": "sociedad_an_nima_de_capital_variable__casa_de_bolsa__s_a_de_c_v__casa_de_bolsa_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable, Institución de Financiamiento Colectivo (IFC)",
+    "value": "sociedad_an_nima_de_capital_variable__instituci_n_de_financiamiento_colectivo__ifc_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable, Institución de Fondos de Pago Electrónico (IFPE)",
+    "value": "sociedad_an_nima_de_capital_variable__instituci_n_de_fondos_de_pago_electr_nico__ifpe_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima de Capital Variable, Sociedad Financiera Popular (SOFIPO)",
+    "value": "sociedad_an_nima_de_capital_variable__sociedad_financiera_popular__sofipo_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Promotora de Inversión Bursatil (S.A.P.I.B.)",
+    "value": "sociedad_an_nima_promotora_de_inversi_n_bursatil__s_a_p_i_b__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Promotora de Inversión de Capital Variable (S.A.P.I. de C.V.)",
+    "value": "sociedad_an_nima_promotora_de_inversi_n_de_capital_variable__s_a_p_i__de_c_v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Promotora de Inversión, Institución de Financiamiento Colectivo (IFC)",
+    "value": "sociedad_an_nima_promotora_de_inversi_n__instituci_n_de_financiamiento_colectivo__ifc_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima Promotora de Inversión, Institución de Fondos de Pago Electrónico (IFPE)",
+    "value": "sociedad_an_nima_promotora_de_inversi_n__instituci_n_de_fondos_de_pago_electr_nico__ifpe_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima, Institución de Banca Múltiple (S.A. Institución de Banca Múltiple)",
+    "value": "sociedad_an_nima__instituci_n_de_banca_m_ltiple__s_a__instituci_n_de_banca_m_ltiple_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima, Organización Auxiliar del Crédito (S.A. Organización Auxiliar del Crédito)",
+    "value": "sociedad_an_nima__organizaci_n_auxiliar_del_cr_dito__s_a__organizaci_n_auxiliar_del_cr_dito_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Anónima, Sociedad de Información Crediticia (S.A. S.I.C.)",
+    "value": "sociedad_an_nima__sociedad_de_informaci_n_crediticia__s_a__s_i_c__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Cooperativa (S. C.)",
+    "value": "sociedad_cooperativa__s__c__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Cooperativa de Ahorro y Préstamo de Responsabilidad Limitada de Capital Variable (S.C. de A.P. de R.L. de C.V.)",
+    "value": "sociedad_cooperativa_de_ahorro_y_pr_stamo_de_responsabilidad_limitada_de_capital_variable__s_c__de_a_p__de_r_l__de_c_v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Cooperativa de Consumo de Responsabilidad Limitada de Capital Variable (S.C. DE C. DE R.L. DE C.V.)",
+    "value": "sociedad_cooperativa_de_consumo_de_responsabilidad_limitada_de_capital_variable__s_c__de_c__de_r_l__de_c_v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad de Ahorro y Prestamo (S.A.P.)",
+    "value": "sociedad_de_ahorro_y_prestamo__s_a_p__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad de Producción Rural de Responsabilidad Limitada de Capital (S.P.R DE R.L. DE C.V.)",
+    "value": "sociedad_de_producci_n_rural_de_responsabilidad_limitada_de_capital__s_p_r_de_r_l__de_c_v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad de Responsabilidad Limitada de capital variable (S.R.L de C.V.)",
+    "value": "sociedad_de_responsabilidad_limitada_de_capital_variable__s_r_l_de_c_v__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad en Comandita por Acciones (S.C.A.)",
+    "value": "sociedad_en_comandita_por_acciones__s_c_a__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad en Comandita Simple (S. en C. S.)",
+    "value": "sociedad_en_comandita_simple__s__en_c__s__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad en Nombre Colectivo (S.N.C)",
+    "value": "sociedad_en_nombre_colectivo__s_n_c_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Financiera Comunitaria (S.F.C.)",
+    "value": "sociedad_financiera_comunitaria__s_f_c__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad Nacional de Crédito (S.N.C.)",
+    "value": "sociedad_nacional_de_cr_dito__s_n_c__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedad por Acciones Simplificada (S.A.S.)",
+    "value": "sociedad_por_acciones_simplificada__s_a_s__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedades Anónimas Promotoras de Inversión (S.A.P.I.)",
+    "value": "sociedades_an_nimas_promotoras_de_inversi_n__s_a_p_i__",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sociedades Civiles ( S.C)",
+    "value": "sociedades_civiles___s_c_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sin Denominación Social",
+    "value": "sin_denominaci_n_social",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation",
+    "value": "corporation",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation - Benefit corporation",
+    "value": "corporation___benefit_corporation",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation - Close corporation",
+    "value": "corporation___close_corporation",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation - Nonprofit corporation",
+    "value": "corporation___nonprofit_corporation",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation (C corp)",
+    "value": "corporation__c_corp_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corporation (S corp)",
+    "value": "corporation__s_corp_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Incorporation (INC)",
+    "value": "incorporation__inc_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Limited (LTD)",
+    "value": "limited__ltd_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Limited liability company (LLC)",
+    "value": "limited_liability_company__llc_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Limited liability partnership (LLP)",
+    "value": "limited_liability_partnership__llp_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Limited partnerships (LP)",
+    "value": "limited_partnerships__lp_",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sole proprietorship",
+    "value": "sole_proprietorship",
+    "taxonomy": "tipo_sociedad",
+    "code1": null,
+    "code2": null
+  }
+]
