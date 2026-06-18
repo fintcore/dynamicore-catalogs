@@ -101,7 +101,6 @@ function writeBarrels(dirs: string[]) {
   cjsLines.push('var _core = require("./core/createCatalog.cjs");');
   cjsLines.push("exports.createCatalog = _core.createCatalog;");
   esmLines.push('export { createCatalog } from "./core/createCatalog.js";');
-  esmLines.push('export type { Catalog, CatalogRecord } from "./core/types.js";');
   cjsLines.push("");
   esmLines.push("");
 
