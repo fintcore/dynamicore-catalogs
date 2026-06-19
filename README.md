@@ -1,6 +1,12 @@
 # @dynamicore/catalogs
 
+[![npm](https://img.shields.io/npm/v/@dynamicore/catalogs)](https://www.npmjs.com/package/@dynamicore/catalogs)
+[![GitHub](https://img.shields.io/badge/GitHub-fintcore%2Fdynamicore--catalogs-181717?logo=github)](https://github.com/fintcore/dynamicore-catalogs)
+[![Website](https://img.shields.io/badge/Web-dynamicore.io-0066CC)](https://www.dynamicore.io)
+
 Librería de catálogos de datos para aplicaciones financieras y regulatorias en México y Latinoamérica. Incluye geografía, actividades económicas, fiscalidad, ocupaciones y más — con una API uniforme y soporte completo para TypeScript.
+
+Desarrollado por [Dynamicore](https://www.dynamicore.io) · [Repositorio en GitHub](https://github.com/fintcore/dynamicore-catalogs)
 
 ## Instalación
 

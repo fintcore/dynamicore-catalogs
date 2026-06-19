@@ -4,9 +4,16 @@
   "description": "Catálogos de datos para aplicaciones financieras y regulatorias",
   "author": "Dynamicore",
   "license": "MIT",
+  "homepage": "https://www.dynamicore.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fintcore/dynamicore-catalogs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fintcore/dynamicore-catalogs/issues"
+  },
   "keywords": [
     "catalogs",
-    "mcc",
     "pais",
     "municipios",
     "finance",
