@@ -1,5 +1,7 @@
 export { createCatalog } from "./core/createCatalog";
 export type { Catalog, CatalogRecord } from "./core/types";
+export { getCatalog, listCatalogs } from "./core/getCatalog";
+export type { CatalogName } from "./core/getCatalog";
 
 // mcc has custom bilingual API
 export { mcc } from "./catalogs/mcc";
