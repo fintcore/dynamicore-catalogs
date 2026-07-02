@@ -1,6 +1,6 @@
 {
   "name": "@dynamicore/catalogs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Catálogos de datos para aplicaciones financieras y regulatorias",
   "author": "Dynamicore",
   "license": "MIT",
@@ -40,6 +40,7 @@
   ],
   "scripts": {
     "build": "tsup",
+    "prepublishOnly": "npm run build",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
     "catalog:add": "node scripts/add-catalog.js",
